@@ -13,6 +13,7 @@
 |---|---|---|
 | [Mission Charter](../MISSION.md) | — | Foundation v1.0 |
 | [Mission Plan — Mallorca 2026](planning/MSOL-PLAN-0002-mallorca.md) | MSOL-PLAN-0002 | Draft v0.2 |
+| [Equipment Profile](planning/MSOL-EQUIP-0001.md) | MSOL-EQUIP-0001 | Confirmed |
 | [Mission Plan — Luxor 2027 (archived)](planning/MSOL-PLAN-0001-mission-plan.md) | MSOL-PLAN-0001 | Superseded by DEC-0002 |
 
 ## Decisions
